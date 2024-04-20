@@ -1,0 +1,1 @@
+import{j as e}from"./index-53ed5952.js";import{S as r}from"./SubHeader-71fa3f8d.js";function i(){return e.jsxs("div",{children:[e.jsx(r,{title:"Team",path:"/profile"}),e.jsx("h1",{children:"Team"})]})}export{i as default};
