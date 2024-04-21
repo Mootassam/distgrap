@@ -1,1 +1,0 @@
-import{j as t}from"./index-c4bf6b29.js";function n(){return t.jsx("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",padding:20,fontSize:15},children:"No data Found !! "})}export{n as N};
